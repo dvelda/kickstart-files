@@ -1,6 +1,8 @@
-# kickstart-files
-CentOS 7 Kickstart Files
+# CentOS 7 Kickstart Files
 
+Eine Sammlung von Kickstart-Files für das Modul 127.
+
+Pull request Test von Jordan
 
 ## SSH-Key
 Während der Installation können Sie die SSH-Verbindung konfigurieren. Man Verwenden den Befehl sshpw, um temporäre Konten zu erstellen, über die ihr euch anmelden könnt. Diese Konten werden nicht auf das installierte System übertragen.
